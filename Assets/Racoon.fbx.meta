@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: aab818973f0f9461d9b707fa7673a2fd
+timeCreated: 1523167814
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature.000
+    100002: Body.000
+    100004: Chest
+    100006: Hand.L
+    100008: Hand.L_end
+    100010: Hand.L_end_end
+    100012: Hand.L_end_end_end
+    100014: Hand.R
+    100016: Hand.R_end
+    100018: Hand.R_end_end
+    100020: Hand.R_end_end_end
+    100022: Head
+    100024: Head_end
+    100026: Head_end_end
+    100028: Head_end_end_end
+    100030: Hips
+    100032: LegIK.L
+    100034: LegIK.L_end
+    100036: LegIK.L_end_end
+    100038: LegIK.L_end_end_end
+    100040: LegIK.R
+    100042: LegIK.R_end
+    100044: LegIK.R_end_end
+    100046: LegIK.R_end_end_end
+    100048: LowerArm.L
+    100050: LowerArm.R
+    100052: LowerLeg.L
+    100054: LowerLeg.L_end
+    100056: LowerLeg.L_end_end
+    100058: LowerLeg.L_end_end_end
+    100060: LowerLeg.R
+    100062: LowerLeg.R_end
+    100064: LowerLeg.R_end_end
+    100066: LowerLeg.R_end_end_end
+    100068: Neck
+    100070: Poll Target.L
+    100072: Poll Target.L_end
+    100074: Poll Target.L_end_end
+    100076: Poll Target.L_end_end_end
+    100078: Poll Target.R
+    100080: Poll Target.R_end
+    100082: Poll Target.R_end_end
+    100084: Poll Target.R_end_end_end
+    100086: //RootNode
+    100088: Shoulder.L
+    100090: Shoulder.R
+    100092: Spine
+    100094: UpperArm.L
+    100096: UpperArm.R
+    100098: UpperLeg.L
+    100100: UpperLeg.R
+    400000: Armature.000
+    400002: Body.000
+    400004: Chest
+    400006: Hand.L
+    400008: Hand.L_end
+    400010: Hand.L_end_end
+    400012: Hand.L_end_end_end
+    400014: Hand.R
+    400016: Hand.R_end
+    400018: Hand.R_end_end
+    400020: Hand.R_end_end_end
+    400022: Head
+    400024: Head_end
+    400026: Head_end_end
+    400028: Head_end_end_end
+    400030: Hips
+    400032: LegIK.L
+    400034: LegIK.L_end
+    400036: LegIK.L_end_end
+    400038: LegIK.L_end_end_end
+    400040: LegIK.R
+    400042: LegIK.R_end
+    400044: LegIK.R_end_end
+    400046: LegIK.R_end_end_end
+    400048: LowerArm.L
+    400050: LowerArm.R
+    400052: LowerLeg.L
+    400054: LowerLeg.L_end
+    400056: LowerLeg.L_end_end
+    400058: LowerLeg.L_end_end_end
+    400060: LowerLeg.R
+    400062: LowerLeg.R_end
+    400064: LowerLeg.R_end_end
+    400066: LowerLeg.R_end_end_end
+    400068: Neck
+    400070: Poll Target.L
+    400072: Poll Target.L_end
+    400074: Poll Target.L_end_end
+    400076: Poll Target.L_end_end_end
+    400078: Poll Target.R
+    400080: Poll Target.R_end
+    400082: Poll Target.R_end_end
+    400084: Poll Target.R_end_end_end
+    400086: //RootNode
+    400088: Shoulder.L
+    400090: Shoulder.R
+    400092: Spine
+    400094: UpperArm.L
+    400096: UpperArm.R
+    400098: UpperLeg.L
+    400100: UpperLeg.R
+    2100000: Material.010
+    4300000: Body.000
+    7400000: Armature.000|Armature.000|Armature.001|Character_Idle|Armature.001|Character
+    9500000: //RootNode
+    13700000: Body.000
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
